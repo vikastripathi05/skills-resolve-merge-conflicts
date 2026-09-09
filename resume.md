@@ -1,6 +1,6 @@
 # GitHub Teacher
 
-Charting the available knowledge of the Internet, just like Galileo charted the stars.
+Charting the knowledge of the Internet, just like Galileo charted the stars.
 
 ## Experience
 
@@ -21,4 +21,6 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+
 - Contributed to open source projects
+
